@@ -1,7 +1,0 @@
-Running: xsim.dir/HASim_behav/xsimk.exe -simmode gui -wdb HASim_behav.wdb -simrunnum 0 -socket 55529
-Design successfully loaded
-Design Loading Memory Usage: 8136 KB (Peak: 8136 KB)
-Design Loading CPU Usage: 15 ms
-Simulation completed
-Simulation Memory Usage: 8780 KB (Peak: 8780 KB)
-Simulation CPU Usage: 31 ms
